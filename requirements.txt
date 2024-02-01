@@ -1,0 +1,4 @@
+ipython
+pandas==2.0.3
+requests
+beautifulsoup4
