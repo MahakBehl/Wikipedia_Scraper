@@ -12,7 +12,9 @@ Create a json file from all the details.
 **Installation**
 
 Go to the directory where you want the cloned directory and execute the below command in Terminal.
+
 git clone https://github.com/MahakBehl/Wikipedia_Scraper
+
 Install requirements.txt
 
 **Usage**
